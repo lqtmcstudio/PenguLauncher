@@ -1,2 +1,2 @@
-# PenguLauncher
+# ZephyrLauncher
 A simple launcher
